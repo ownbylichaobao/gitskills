@@ -3,7 +3,7 @@ package com.example.demo;
 public class user {
     private int id=0;
     private String name="lalal";
-    private  int age=120;
+    private  int age=130;
     public user(){}
     public int getId() {
         return id;
